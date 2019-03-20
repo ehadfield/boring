@@ -5,9 +5,17 @@ h2.intro {
   font-weight: bold;
 }
 
-p.intro {
+.important {
   font-size: 16px;
-  color: #7F0C1F  ;
+  color: blue;
+  font-family: sans-serif;
+  width: 75%;
+}
+
+
+.unimportant {
+  font-size: 16px;
+  color: #7F0C1F;
   font-family: sans-serif;
   width: 75%;
 }
@@ -17,4 +25,18 @@ img.intro {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.text-type {
+  font-size: 16px;
+  color: green;
+  font-family: sans-serif;
+  width: 75%;
+}
+
+.second-text {
+  font-size: 16px;
+  color: orange;
+  font-family: sans-serif;
+  width: 75%;
 }
